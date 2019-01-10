@@ -7,6 +7,7 @@ Make a visualization with data of the world's oldest person.<br/>
 Not sure how I want to visualize this data yet. Where the oldest people come from might be fun. Two lines, one showing current oldest person and another showing the current record might also be interestingl. (with further breakdown between men and women?)
 <br/>
 #### Original Dataset
+<br/>
 [Reddit Thread](https://www.reddit.com/r/dataisbeautiful/comments/adihze/battle_dataviz_battle_for_the_month_of_january/)
 <br/>
 [World's Oldest People](http://www.grg.org/Adams/C.HTM)
