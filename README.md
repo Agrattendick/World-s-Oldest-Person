@@ -10,6 +10,7 @@ Not sure how I want to visualize this data yet. Where the oldest people come fro
 #### Original Dataset
 
 <br/>
+
 [Reddit Thread](https://www.reddit.com/r/dataisbeautiful/comments/adihze/battle_dataviz_battle_for_the_month_of_january/)
 <br/>
 
